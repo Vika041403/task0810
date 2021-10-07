@@ -1,0 +1,39 @@
+commit e362142ed689de10969d07f2282a5bbc4c1f180f
+Author: Vika Dashinimaewa <dashinimaeva.vt@students.dvfu.ru>
+Date:   Fri Oct 1 12:44:17 2021 +1000
+
+    all1
+
+ ...275\321\202\320\260\321\206\320\270\321\217 Microsoft PowerPoint.pptx" | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit b30818f21afa45b4a24c5c4b30c05cfd3713c659
+Author: Vika Dashinimaewa <dashinimaeva.vt@students.dvfu.ru>
+Date:   Fri Oct 1 12:43:07 2021 +1000
+
+    all
+
+ .gitignore         | 3 +++
+ log/main.html      | 0
+ my_first_file.txt  | 2 +-
+ my_second_file.txt | 1 -
+ 4 files changed, 4 insertions(+), 2 deletions(-)
+
+commit 90a033b892408f4f45aa9cda89218f35038e0a94
+Author: Vika Dashinimaewa <dashinimaeva.vt@students.dvfu.ru>
+Date:   Fri Sep 24 12:32:57 2021 +1000
+
+    second file
+
+ my_second_file.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit feb2df8dd8f2c5ef266f1d293e67ab24b666f50e
+Author: Vika Dashinimaewa <dashinimaeva.vt@students.dvfu.ru>
+Date:   Fri Sep 24 12:12:02 2021 +1000
+
+    firs commit
+
+ my_first_file.txt  | 1 +
+ my_second_file.txt | 0
+ 2 files changed, 1 insertion(+)
